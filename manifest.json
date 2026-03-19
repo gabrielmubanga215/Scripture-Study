@@ -1,0 +1,39 @@
+{
+  "name": "Scripture Study \u2014 Gabriel Mubanga",
+  "short_name": "Scripture Study",
+  "description": "Bible Study App by Gabriel Mubanga \u2014 Read scripture, watch teachings and take quizzes.",
+  "start_url": "https://gabrielmubanga215.github.io/scripture-study/",
+  "scope": "https://gabrielmubanga215.github.io/scripture-study/",
+  "display": "standalone",
+  "background_color": "#faf6ee",
+  "theme_color": "#2c2416",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "categories": [
+    "education",
+    "lifestyle",
+    "books"
+  ],
+  "icons": [
+    {
+      "src": "https://gabrielmubanga215.github.io/scripture-study/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://gabrielmubanga215.github.io/scripture-study/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Open Bible Study",
+      "short_name": "Study",
+      "description": "Go straight to the Bible study app",
+      "url": "https://gabrielmubanga215.github.io/scripture-study/"
+    }
+  ]
+}
